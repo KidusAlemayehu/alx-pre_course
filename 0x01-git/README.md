@@ -1,0 +1,1 @@
+This is alx-pre_course github repository readme markdown file written using emacs terminal code editor.
